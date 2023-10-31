@@ -45,9 +45,9 @@ public class esercizio15di2 {
     }
 
     public static void main(String[] args) {
-        esercizio15di2 auto = new esercizio15di2(1000, "heavymeteal666", "Ford", "Fiesta");
+        esercizio15di2 auto = new esercizio15di2(4000, "EU23434", "Toyota", "4runner");
 
-        System.out.println("Cilindrata: " + auto.getCilindrata() + " cc");
+        System.out.println("Cilindrata: " + auto.getCilindrata());
         System.out.println("placa: " + auto.getPlaca());
         System.out.println("Marca: " + auto.getMarca());
         System.out.println("Modello: " + auto.getModello());
