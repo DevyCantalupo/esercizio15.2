@@ -1,8 +1,8 @@
 public class esercizio15di2 {
-    private int cilindrata;
-    private String placa;
-    private String marca;
-    private String modello;
+    public int cilindrata;
+    public String placa;
+    public String marca;
+    public String modello;
 
     // Constructor
     public esercizio15di2(int cilindrata, String placa, String marca, String modello) {
